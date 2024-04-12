@@ -1,0 +1,33 @@
+LLB
+uc_reset + reg_write_enable + mux_reg_value=3 + set_reg_a_select_to_reg_select
+
+LUB
+uc_reset + reg_write_enable + mux_reg_value=4 + set_reg_a_select_to_reg_select
+
+SR
+
+LR
+
+ALU 8x
+
+SNZ
+
+SZ
+
+SNC
+
+SC
+
+MR
+
+JMP
+
+JZ
+
+JNZ
+
+JNC
+
+JC
+
+HLT
